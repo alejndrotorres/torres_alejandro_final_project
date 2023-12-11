@@ -62,3 +62,9 @@ Inspiration, code snippets, etc.
 * [DannyMurray](https://www.youtube.com/watch?v=8v6xkT0lLaQ)
 * [ClearCode](https://www.youtube.com/watch?v=QFvqStqPCRU)
 * [ThePythonGame](https://thepythoncode.com/article/make-a-snake-game-with-pygame-in-python)
+
+
+        self.x = random.randint(0, cell_number-1) #import random integer value #-1 in order to keep the random integer value from not being off screen
+        self.y = random.randint(0,cell_number-1)
+        self.pos = Vector2(self.x,self.y) #storing 2d data
+    
