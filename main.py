@@ -4,6 +4,7 @@
 import pygame
 import random
 import sys
+import os
 from pygame.math import Vector2
 
 class SNAKE:
