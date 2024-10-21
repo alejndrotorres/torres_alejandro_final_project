@@ -1,9 +1,5 @@
 Fall2023_final_project
 
-Simple overview of use/purpose.
-
-
-
 Created a screen game that replicates the game of snake. The user will have a limited space on the screen that they will be able to move on. creen is looked at like from a birds eye view. When the snake eats a piece of the fruit then the snakes body will grow in length. If the snake touches another part of their body or hits the border, then they will restart. Highest score will be tracked. Goal is to fill the screen without dying.
 
 Prerequisites/Libraries:
