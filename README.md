@@ -9,11 +9,6 @@ Pygame
 
 
 
-code blocks for commands
-```
-
-
-
 ## Authors
 
 Alejandro Torres | atorres1@asandiego.edu
